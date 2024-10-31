@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Homemade+Apple&display=swap");
+
+html{
+    text-align: center;
+    background-color: #593620;
+}
+header{ 
+    background-color: #D9ACA3 ;
+    padding-bottom: 20px;
+    color: #593620 ;
+    text-align: center;
+    padding-top: 45px;
+    font-family: "Homemade Apple";
+    padding: auto;
+}
+
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0%;
+    overflow: hidden;
+    background-color: #593620;
+    position:fixed;
+    padding: 0%;
+    top: 0%;
+    width: 100%;
+}
+
+nav li{
+    float: left;
+}
+
+nav a{
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    color: #D9ACA3;
+    font-family: "EB Garamond";
+    font-size: 20px;
+    background-color:#593620 ;
+}
+
+nav a:hover{
+    background-color:#593620 ;
+}
+
+
+section{
+   background-color: #3b2b25;
+   width: 80vw;
+   margin: 0 auto;
+   padding: 50px;
+}
+.alternate {
+    background-color:#593620;
+}
+
+body{
+    background-color: #D9ACA3 ;
+    margin: 0%;
+}
+
+h3{
+ font-family: "Homemade apple";
+ font-size: 40px;
+}
+
+h4{
+    font-family: "EB Garamond";
+}
+body{
+    color: #f3f2ef;
+}
+p{ 
+   font-size: 20px;
+   font-family: "EB Garamond";
+   color: #f3f2ef;
+}
+
+footer {
+    
+    left: 0;
+    bottom: 0%;
+    width: 100%;
+    background-color:#D9ACA3;
+    color: white;
+    text-align: center;
+  }
+
+    a:link#links, a:visited {
+    
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+}
+
+footer a{
+    color: white;
+}
